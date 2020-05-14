@@ -1,17 +1,17 @@
 {
-  "_from": "git+https://github.com/TryGhost/Casper.git#2.11.2",
-  "_id": "casper@2.11.2",
+  "_from": "git+https://github.com/instructorc/emittheme.git",
+  "_id": "emittheme@2.11.2",
   "_inBundle": false,
   "_integrity": "",
-  "_location": "/casper",
+  "_location": "/emittheme",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "casper@git+https://github.com/TryGhost/Casper.git#2.11.2",
+    "raw": "emittheme@git+https://github.com/instructorc/emittheme.git",
     "name": "casper",
     "escapedName": "casper",
-    "rawSpec": "git+https://github.com/TryGhost/Casper.git#2.11.2",
-    "saveSpec": "git+https://github.com/TryGhost/Casper.git#2.11.2",
+    "rawSpec": "git+https://github.com/instructorc/emittheme.git",
+    "saveSpec": "git+https://github.com/instructorc/emittheme.git",
     "fetchSpec": "https://github.com/TryGhost/Casper.git",
     "gitCommittish": "2.11.2"
   },
@@ -19,11 +19,11 @@
     "/"
   ],
   "_resolved": "git+https://github.com/TryGhost/Casper.git#215d837848b88354bb94a375338abf1a71ece023",
-  "_spec": "casper@git+https://github.com/TryGhost/Casper.git#2.11.2",
+  "_spec": "emittheme@git+https://github.com/instructorc/emittheme.git",
   "_where": "C:\\Users\\fulchr\\Google Drive\\p51\\Client[Leah_Fulton_Dec_2018]\\emit_blog\\ghost-heroku",
   "author": {
-    "name": "Ghost Foundation",
-    "email": "hello@ghost.org",
+    "name": "C. Fulton",
+    "email": "Chris.fulton1@gmail.com",
     "url": "https://ghost.org"
   },
   "bugs": {
@@ -53,8 +53,8 @@
       }
     }
   },
-  "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
-  "demo": "https://demo.ghost.io",
+  "contributors": "",
+  "demo": "",
   "deprecated": false,
   "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
   "devDependencies": {
@@ -91,10 +91,10 @@
     "ghost-theme"
   ],
   "license": "MIT",
-  "name": "casper",
+  "name": "emittheme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TryGhost/Casper.git"
+    "url": "git+https://github.com/instructorc/emittheme.git"
   },
   "screenshots": {
     "desktop": "assets/screenshot-desktop.jpg",
